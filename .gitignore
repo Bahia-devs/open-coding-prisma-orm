@@ -1,0 +1,12 @@
+# dependencies
+node_modules
+
+# locks
+yarn.lock
+package-lock.json
+
+# environmental variables
+.env
+
+# database
+*.db
